@@ -1,6 +1,6 @@
 # Dein erster Freifunk-Knoten
 
-Klasse, dass du bei uns Mitmischen möchtest!
+Klasse, dass du bei uns mitmischen möchtest!
 
 Solltest du an einer Stelle Hilfe benötigen, so kannst du dich gerne in unserem
 [Chat](https://matrix.to/#/#ffda:hackint.org), im [Forum](https://forum.darmstadt.freifunk.net/) oder bei 
@@ -49,12 +49,12 @@ Hast du einen passenden Router gefunden? Nun musst du diesen mit unserer Firmwar
 Herstellerunabhängig ist, gibt es keine allgemeingültige Anleitung.
 
 1. Solltest du ein Gerät aus unserer Empfehlungsliste gewählt haben, so findest du dort einen direkten Link zur
-Anleitung
+Anleitung.
 
 2. Bei vielen Geräten ist auf unserer Firmware-Seite eine Anleitung verlinkt, die dir Schritt
 für Schritt erklärt, wie du die Firmware auf deinem Gerät installierst.
 
-Falls du zur Installation ein spezielles Kabel benötigst können wir dir dieses oft auch gerne ausleihen.
+Falls du zur Installation ein spezielles Kabel benötigst, können wir dir dieses oft auch gerne ausleihen.
 
 ## Knoten konfigurieren
 
@@ -91,7 +91,7 @@ sind.
 - **SSH-Key**: Solltest du dich mit der Materie auskennen, so kannst du hier deinen SSH-Key hinterlegen, um deinen
     Knoten später einfacher zu verwalten.
 
-Wenn du alles eingestellt hast kannst du am Ende der Seite die Einstellungen speichern und deinen Knoten neu starten.
+Wenn du alles eingestellt hast, kannst du am Ende der Seite die Einstellungen speichern und deinen Knoten neu starten.
 
 ## VPN-Key freischalten
 
